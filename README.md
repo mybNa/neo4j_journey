@@ -8,3 +8,8 @@ This is the beginning of my journey learning/exploring new technology to build a
 ### Further Useful Reading
 > https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources
 > https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
+
+
+### scalability and Performance
+#### Ingestion
+> https://www.youtube.com/watch?v=_6zdEHmjEDI
