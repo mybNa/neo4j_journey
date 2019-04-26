@@ -13,3 +13,8 @@ This is the beginning of my journey learning/exploring new technology to build a
 ### scalability and Performance
 #### Ingestion
 > https://www.youtube.com/watch?v=_6zdEHmjEDI
+
+
+
+### Neo4j & Python
+> https://www.youtube.com/watch?v=Nkd6Ei-xuxI
