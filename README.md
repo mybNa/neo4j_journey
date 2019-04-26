@@ -18,3 +18,7 @@ This is the beginning of my journey learning/exploring new technology to build a
 
 ### Neo4j & Python
 > https://www.youtube.com/watch?v=Nkd6Ei-xuxI
+
+
+### Import / Export Data 
+> https://neo4j-contrib.github.io/neo4j-apoc-procedures/#export-import
