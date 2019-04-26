@@ -26,3 +26,7 @@ This is the beginning of my journey learning/exploring new technology to build a
 
 ### Import / Export Data 
 > https://neo4j-contrib.github.io/neo4j-apoc-procedures/#export-import
+
+
+### Graph Database challenges
+> https://blog.grakn.ai/the-challenges-of-working-with-a-graph-database-2a5f9a7c903b
